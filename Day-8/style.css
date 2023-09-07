@@ -1,0 +1,83 @@
+hmtl {
+    font-size: 25px;
+}
+
+#css {
+    border: 4px double lime;
+    font-size: 60px;
+    margin-bottom: 90px;
+}
+
+body {
+    height: 1000px;
+    font-size: 25px;
+    padding: 2px;
+}
+
+
+.border {
+    border: 3px solid black;
+    margin-bottom: 25px;
+}
+
+#parent {
+    background-color: azure;
+    padding: 100x 10px 0px 5px;
+    width: 600px;
+    font-size: 60px;
+    table-layout: auto;
+}
+
+.pixels {
+    background-color: antiquewhite;
+    margin: 15px;
+    width: 200px;
+    border-radius: 50px 0px;
+}
+
+.percentage {
+    background-color: lightsteelblue;
+    margin: 15px;
+    width: 500px;
+    border-radius: 30px 0px;
+}
+
+.vw {
+    background-color: turquoise;
+    margin: 15px;
+    width: 50%;
+    border-radius: 40px 0px;
+}
+
+.vh {
+    background-color: yellowgreen;
+    margin: 15px;
+    height: 9vh;
+    border-radius: 20px 0px;
+}
+
+.em {
+    background-color: tomato;
+    margin: 15px;
+    width: 30vw;
+    font-size: 2em;
+    border-radius: 90px 0px;
+}
+
+.rem {
+    background-color: slategrey;
+    margin: 15px;
+    font-size: 1rem;
+    border-radius: 100px 0px;
+    width: 30vw;
+}
+
+#main  {
+    text-align: center;
+    font-size: 20px;
+    border: 5px double lightseagreen;
+    border-radius: 100% ;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+}

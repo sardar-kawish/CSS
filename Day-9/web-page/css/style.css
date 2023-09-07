@@ -1,0 +1,43 @@
+body {
+    background-color: darkviolet;
+}
+
+.border {
+    background-color: whitesmoke;
+    border: 3px solid lightslategray;
+    margin: 300px 150px 0px 150px;
+    border-radius: 10px;
+}
+
+.Studants {
+
+    font-size: 30px;
+    border: 2px solid lightslategray;
+    border-radius: 6px;
+    padding: 4px;
+    margin: 9px;
+}
+
+.sticky {
+    font-size: 45px;
+    text-align: center;
+    background-color: lightgray;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#kasa {
+    border: 10px double lightpink ;
+    color: brown;
+    font-size: 70px;
+    width: 25vw;
+    height: 30vh;
+    margin-top: 70px;
+    margin-left: 450px;
+    border-radius: 20px 100px 20px 100px;
+}

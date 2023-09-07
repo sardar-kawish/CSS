@@ -1,0 +1,48 @@
+#border {
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left: 450px;
+    margin-right: 200px;
+}
+
+.parent {
+    padding: 0;
+    background-color: black;
+    width: 40vw;
+    height: 100vh;
+}
+
+.hr {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.call {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
+
+.placeholder {
+    border: none;
+    color: white;
+    background-color: black;
+    margin-left: 20px;
+}
+
+.button {
+    margin-left: 200px;
+    margin-top: 100px;
+    color: white; /* Changed text color to white for better visibility */
+    border-radius: 40px;
+    background: white;
+    width: 10vw;
+}
+
+.tel {
+    margin-left: 240px;
+    background-color: aliceblue;
+    color: black;
+}

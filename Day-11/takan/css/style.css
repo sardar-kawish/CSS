@@ -1,0 +1,74 @@
+* {
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+
+    background-color:rgb(71, 64, 64);
+}
+.miancontainer{
+    width: 80%;
+}
+
+.container1, .container2, .container3, .container4{
+    
+    margin: 10% auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content:space-around;
+    gap: 20px;
+    padding: 10%;
+
+}
+
+.box-50{
+    
+    width: 44%;
+    padding: 20px;
+    text-align: center;
+}
+.box-24{
+
+    width: 22%;
+    padding: 30px;
+    text-align: center;
+}
+
+.button{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+}
+
+#pink{
+
+    background-color: #FFC0C7;
+}
+
+#yellow{
+
+    background-color: #FFF4A3; 
+}
+
+#off-white{
+
+    background-color: #F3ECEA;
+}
+
+#blue-gray{
+
+    background-color: #D9EEE1;
+}
+
+#aqua{
+
+    background-color: #96D4D4;
+}
+
+#silver{
+
+    background-color: #f1f1f1;
+}
+
+

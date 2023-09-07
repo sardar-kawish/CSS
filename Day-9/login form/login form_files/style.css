@@ -1,0 +1,101 @@
+body {
+    background-color: rgba(112, 128, 216, 0.558);
+}
+
+.border {
+    border: 1px solid wheat;
+    margin-top: 150px;
+    margin-left: 350px;
+}
+
+#parent {
+    background-color: white;
+    border-radius: 25px;
+    width: 40vw;
+    position: relative;
+}
+
+#Username {
+    position: relative;
+    text-align: left;
+}
+
+#login {
+    margin: 50px ;
+    font-size: xx-large;
+    text-align: center;
+}
+
+
+.user {
+    position: relative;
+    margin-left: 35px;
+}
+
+.hr {
+    position: relative;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+
+.custom {
+    position: relative;
+    width: 2vw;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+#custom1 {
+    position: sticky;
+    width: 2vw;
+    margin-top: 15px;
+    margin-left: 190px;
+}
+
+#custom2 {
+    position: sticky;
+    width: 2vw;
+    margin-top: 15px;
+
+}
+
+#custom3 {
+    position: sticky;
+    width: 2vw;
+    margin-top: 15px;
+
+}
+
+.field1 {
+    position: relative;
+    background-color: transparent;
+    margin-top: 10px;
+    margin-left: 40px;
+    border: none;
+}
+
+#forgot {
+    margin-left: 330px;
+    position: sticky;
+}
+
+
+#button {
+    background-color: mediumpurple;
+    width: 30vw;
+    border-radius: 60px;
+    height: 5vh;
+    margin-left: 65px;
+}
+
+.signup {
+    position: relative;
+    margin-left: 170px;
+}
+
+#up {
+    position: relative;
+    margin-left: 200px;
+    padding-bottom: 100px;
+   
+}
